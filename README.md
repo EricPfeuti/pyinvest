@@ -128,7 +128,7 @@ Controla a execução principal do sistema.
 
 ### Pré-requisitos
 
-- Python 3 instalado.
+- Python instalado.
 
 ### Execução
 
