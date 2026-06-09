@@ -157,8 +157,8 @@ Meta Financeira (R$): 30000
 
 ## Autor
 
-Projeto desenvolvido para fins acadêmicos e prática dos conceitos de Programação em Python.
+Eric Pfeuti, projeto desenvolvido para fins acadêmicos.
 
 **Disciplina:** Algoritmos e Programação
-**Linguagem:** Python 3
+**Linguagem:** Python
 **Tipo de Projeto:** Simulador de Investimentos Financeiros.
